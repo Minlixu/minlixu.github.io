@@ -1,0 +1,85 @@
+img{
+    margin-bottom:20px;
+    border-radius:15px 15px 15px 15px;
+    
+}
+
+.row-eq-height {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+
+.bg-faded {
+    background-color: #fff;
+}
+
+.navbar{
+
+margin-bottom: 70px;
+height:40px;
+display: block; 
+}
+
+
+
+.page-content{
+    margin-top: 70px;
+
+}
+
+.twitter-share-button{
+    display: block;   
+
+}
+
+.imgclass {
+    height: 300px;
+    width: 200px;
+    display: block;   
+}
+
+.produktinfo{
+    font-family: "Helvetica Neue", Helvetica, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", メイリオ, Meiryo, "ＭＳ Ｐゴシック", arial, sans-serif;
+    display:block;
+    margin-top: 10px;
+
+}
+
+.mybuybutton{
+    padding: .3rem .5rem;
+    background-color: #bd081c;
+    border: none;
+    font-size: .85rem;
+    font-family: "Helvetica Neue", Helvetica, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", メイリオ, Meiryo, "ＭＳ Ｐゴシック", arial, sans-serif;
+
+}
+
+.mypurchasebutton{
+    font-family: "Helvetica Neue", Helvetica, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", メイリオ, Meiryo, "ＭＳ Ｐゴシック", arial, sans-serif;
+    color:#fff;
+    font-weight: bold;
+}
+
+.myboughtitem{
+    font-family: "Helvetica Neue", Helvetica, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", メイリオ, Meiryo, "ＭＳ Ｐゴシック", arial, sans-serif;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.mythanks{
+    font-family: "Helvetica Neue", Helvetica, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", メイリオ, Meiryo, "ＭＳ Ｐゴシック", arial, sans-serif;
+    font-weight:normal;
+    font-size: 1rem;
+    align-items: center;
+    vertical-align: center;
+}
